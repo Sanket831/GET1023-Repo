@@ -3,7 +3,6 @@ package Model;
 public class Customer {
 	int customerNo;
 	String sName;
-	int customerAge;
 	
 	public int getCustomerNo() {
 		return customerNo;
